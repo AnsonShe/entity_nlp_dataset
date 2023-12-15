@@ -1,0 +1,1 @@
+{"bert_model": "bert-base-chinese", "do_lower": true, "max_seq_length": 250, "num_labels": 10, "label_map": {"1": "O", "2": "B-positive", "3": "B-negative", "4": "B-neutral", "5": "I-positive", "6": "I-negative", "7": "I-neutral", "8": "[CLS]", "9": "[SEP]"}}

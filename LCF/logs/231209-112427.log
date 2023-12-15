@@ -1,0 +1,29 @@
+log file: logs/231209-112427.log
+--------------------------------------------------------------------------------
+Config 1 (totally 1 configs)
+No.1 training process of 5
+>>> dataset: ours
+>>> output_dir: output
+>>> SRD: 5
+>>> learning_rate: 3e-05
+>>> use_unique_bert: True
+>>> use_bert_spc: False
+>>> local_context_focus: cdw
+>>> num_train_epochs: 5.0
+>>> train_batch_size: 16
+>>> dropout: 0.0
+>>> max_seq_length: 250
+>>> eval_batch_size: 32
+>>> eval_steps: 20
+>>> gradient_accumulation_steps: 1
+>>> device: cuda:0
+>>> seed: 1
+>>> bert_model: bert-base-chinese
+>>> data_dir: atepc_datasets/ours
+***** Running training *****
+  Num examples = 4090
+  Batch size = 16
+  Num steps = 1275
+################################################################################
+Train 1 Epoch1
+################################################################################
