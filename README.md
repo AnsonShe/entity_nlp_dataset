@@ -26,7 +26,6 @@
 
 🥰欢迎与我们联系！ 
 
-Homepage：[TianyiShe](https://ansonshe.github.io/)
 
 email：tianyishe@whu.edu.cn
 
